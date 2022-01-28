@@ -1,14 +1,14 @@
-def decimal_to_binary(n):
-    if n == 1:
+def decimal_to_binary(x):
+    if x == 1:
         return "1"
-    if n == 0:
+    if x == 0:
         return "0"
     else:
-        return decimal_to_binary(n // 2) + str(n % 2)
+        return decimal_to_binary(x // 2) + str(x % 2)
 
 
-def factorial(n):
-    if n == 0:
+def factorial(x):
+    if x == 0:
         return 1
     else:
-        return factorial(n-1) * n
+        return factorial(x-1) * x
