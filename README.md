@@ -20,6 +20,8 @@ wystarczy zakończyć linię dwoma (lub więcej) spacjami.
 
 ***Pogrubienie i pochylenie*** - \*\*\*trzy gwiazdki\*\*\* lub \_\_\_trzy podkreślniki\_\_\_
 
+~~Przekreślenie~~ - \~~dwie tyldy~~
+
 ## Cytaty
 
 > Cytaty
