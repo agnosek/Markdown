@@ -5,7 +5,8 @@ def decimal_to_binary(n):
         return "0"
     else:
         return decimal_to_binary(n // 2) + str(n % 2)
-      
+
+
 def factorial(n):
     if n == 0:
         return 1
