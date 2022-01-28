@@ -62,4 +62,4 @@ Przy blokach kodu poprzedzamy linie tabem bądź czterema spacjami:
 
 !\[Alt text](link "Tytuł")
 
-![Kotek](/kotek.jpg)
+![Kotek](/Kotek.jpg)
